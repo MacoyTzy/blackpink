@@ -18,3 +18,7 @@ Changelogs made during Beta:
 - Updated all outdated third party vendor libraries to their latest versions (Thanks to Marco)
 - Improved and updated dev version gulp scripts (Thanks to Marco)
 - Fixed navigation links focus color (Thanks to Marco)
+--------
+!Contributor(s)!: <br>
+@MacoyTzy <br>
+
