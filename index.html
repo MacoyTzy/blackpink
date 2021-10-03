@@ -28,7 +28,7 @@
 
   </head>
 
-  <body>
+  <body onmousedown="return false" onselectstart="return false"> <!--disable copy paste text-->
 
     <!-- ======= Hero Section ======= -->
     <section id="hero">
@@ -378,18 +378,23 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
     
     <!-- Disable Right Click-->
-    <script>
-      $(document).ready(function() {
-          $("body").on("contextmenu", function(e) {
-              return false;
-            //alert("This Page is protected");return false;
-            });
-            
-        });
-    </script>
+  <script>
+    $(document).ready(function() {
+      $(document)[0].oncontextmenu = function() { return false; }
+
+            $(document).mousedown(function(e) {
+            if( e.button == 2 ) {
+            alert('nope..');
+             return false;
+     } else {
+        return true;
+     }
+  });
+});
+  </script>
 
     <!-- Template Main JS File -->
-    <script src="assets/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 
   </body>
 
