@@ -12,6 +12,7 @@ Languages used:
 - CSS
 
 Changelogs made during Beta:
+- Disable Print Page (Thanks to M4NYAK)
 - Disable Right Click (Thanks to Marco)
 - Disable screenshot (Thanks to Marco)
 - Disable Copy paste text (Thanks to Marco)
