@@ -13,6 +13,7 @@ Languages used:
 
 Changelogs made during Beta:
 - Disable Right Click
+- Disable Copy paste text
 - Changed some color schemes (Thanks to Marco)
 - Updated Bootstrap version from 4 to version 5.1 (Thanks to Marco)
 - Updated all outdated third party vendor libraries to their latest versions (Thanks to Marco)
