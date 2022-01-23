@@ -1,10 +1,10 @@
-# blackpink
-a dedication web page for BLACKPINK &lt;3
+# LALISA
+a dedication web page for BLACKPINK's LISA &lt;3
 
-![](assets/img/blackpinklogo.jpg)
+![](assets/img/welcome_lisa_2.png)
 
------------------
-BLACKPINK Simple Website V1.0
+-
+LALISA Simple Website V1.0
 Languages used:
 - HTML5
 - BOOTSTRAP 5.1
@@ -12,16 +12,10 @@ Languages used:
 - CSS
 
 Changelogs made during Beta:
-- Disable Print Page (Thanks to M4NYAK)
-- Disable Right Click (Thanks to Marco)
-- Disable screenshot (Thanks to Marco)
-- Disable Copy paste text (Thanks to Marco)
-- Changed some color schemes (Thanks to Marco)
-- Updated Bootstrap version from 4 to version 5.1 (Thanks to Marco)
-- Updated all outdated third party vendor libraries to their latest versions (Thanks to Marco)
-- Improved and updated dev version gulp scripts (Thanks to Marco)
-- Fixed navigation links focus color (Thanks to Marco)
+- Bootstrap to version 5.1.3
+- Updated all outdated third party vendor libraries to their latest versions
+- Added Mp3 player
 --------
 !Contributor(s)!: <br>
 @MacoyTzy <br>
-
+@Y4KNU <br>
